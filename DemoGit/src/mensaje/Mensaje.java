@@ -6,6 +6,7 @@ public class Mensaje {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		System.out.println("Esta versión es de otra PC");
+		System.out.println("prueba de commit");
 	}
 
 }
